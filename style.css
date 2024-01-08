@@ -1,0 +1,44 @@
+.drive-container {
+    text-align: center;
+    padding: 100px;
+    background-color: black;
+   
+}
+
+
+#descargarBtn {
+    background-color: #1a73e8;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+#contenido {
+    margin-top: 20px;
+}
+
+.popup {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background-image: url('https://howlingforjustice.files.wordpress.com/2012/01/blood-drip-2.gif');
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    color: red;
+}
+
+.pri{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background-image: url('https://i.pinimg.com/originals/b5/38/5b/b5385b366d618b2b14bf3d344b9085a8.gif');
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    color: red;
+}
